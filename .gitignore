@@ -1,0 +1,21 @@
+# Node / Dependencies
+node_modules/
+dist/
+build/
+package-lock.json
+
+# Python / Environment
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System / OS
+.DS_Store
+Thumbs.db
